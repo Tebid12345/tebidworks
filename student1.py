@@ -4,4 +4,7 @@ The following are the first letters of the alphabat
  Mimas
  Rhea
  Hyperion
-
+Cameroon
+Bamenda
+Buea
+Limbe
